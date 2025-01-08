@@ -1,4 +1,4 @@
-import { GoogleGenerativeAI } from "@google/generative-ai";
+import { GoogleGenerativeAI } from "node_modules/@google/generative-ai";
 import { maybeShowApiKeyBanner } from './gemini-api-banner.js';
 import './style.css';
 
