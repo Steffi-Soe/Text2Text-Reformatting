@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import { maybeShowApiKeyBanner } from 'gemini-api-banner.js';
-import 'style.css';
+import { maybeShowApiKeyBanner } from './gemini-api-banner.js';
+import './style.css';
 
 let API_KEY = 'AIzaSyCNXQuxcjnNk3-KwDoVgLYEVBVVINXvdGk'; // Replace with your actual API Key
 
